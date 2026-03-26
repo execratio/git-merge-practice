@@ -9,4 +9,4 @@ def subtract(a, b):
 if __name__ == "__main__":
     print("Простой калькулятор")
     print(f"Сложение 5 + 3 = {add(5, 3)}")
-    print("Вычитание 10 - 4 =", subtract(10, 4))
+    print(f"Вычитание 10 - 4 = {subtract(10, 4)}")
